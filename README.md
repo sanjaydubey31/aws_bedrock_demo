@@ -96,19 +96,5 @@ Update the following in the code as needed:
 
 ---
 
-## 📞 Support
 
-For issues or suggestions, feel free to open a GitHub issue or reach out via email.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Would you like me to include instructions for packaging this for deployment (e.g., ZIP for AWS Lambda or SAM/Serverless Framework support)?
-```
