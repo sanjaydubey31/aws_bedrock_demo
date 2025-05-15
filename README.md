@@ -3,9 +3,9 @@ Here is a **README.md** file tailored to your AWS Lambda function, which uses **
 ---
 
 ```markdown
-# 📝 Blog Generator using Amazon Bedrock and AWS Lambda
+# 📝 Blog Generator using Amazon Bedrock and AWS Lambda and AWS API Gateway
 
-This project is a Python-based AWS Lambda function that:
+This project is a Python-based AWS Lambda function that called from AWS API Gateway:
 - Takes a blog topic as input
 - Uses Amazon Bedrock's LLaMA 4 model to generate a blog post
 - Uploads the generated blog content to an Amazon S3 bucket
@@ -96,19 +96,5 @@ Update the following in the code as needed:
 
 ---
 
-## 📞 Support
 
-For issues or suggestions, feel free to open a GitHub issue or reach out via email.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Would you like me to include instructions for packaging this for deployment (e.g., ZIP for AWS Lambda or SAM/Serverless Framework support)?
-```
